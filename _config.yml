@@ -1,6 +1,6 @@
 title: "Isaac Buo"
-author: "Blog Author"
-description: "Made with <b style=\"color: #f45;\">&lt;3</b>"
+author: "Isaac Buo"
+description: "University of Tartu, Estonia"
 permalink: /:title/
 lang: "en"
 excerpt_separator: "\n\n\n"
@@ -16,13 +16,13 @@ minimal: false             # use a dark header
 # Menu
 
 navigation:                # accepts {file, title, url, icon, sidebaricon}
-  - {file: "index.html"}
-  - {file: "README.md"}
+  - {file: "index.html", title : Home, icon: home}
+  - {file: "README.md", title: About, icon: address-card}
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
-  - {title: Mail, icon: envelope, url: "mailto:niklasbuschmann@users.noreply.github.com"}
-  - {title: Github, icon: github, url: "https://github.com/niklasbuschmann/contrast"}
-  - {title: Subscribe, icon: rss, url: "/feed.xml"}
+  - {title: Mail, icon: envelope, url: "isaac.buo@ut.ee"}
+  - {title: Github, icon: github, url: "https://github.com/kwazineutin"}
+  - {title: Twitter, icon: twitter, url: "https://twitter.com/neutin_kwazi"}
 
 comments:
 #  disqus_shortname: ""    # see https://disqus.com/
