@@ -19,7 +19,7 @@ navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {url: "/resume.pdf", title : "CV", icon: cv}
   - {title: "Publications"}
   - {title: "Blog", file: "blog.md"}
-  - {file: "README.md", title: "About", icon: address-card}
+  #- {file: "README.md", title: "About", icon: address-card}
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
   - {title: Mail, icon: envelope, url: "isaac.buo@ut.ee"}
